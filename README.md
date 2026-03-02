@@ -1,7 +1,8 @@
 # ID26-TeamB-AAA
 
-## Things to add to this repo:
+## Team Photo:
 - Team photo
+  
 ## Overleaf Link:
 - https://www.overleaf.com/project/6992eddb34f8c218daef5023
 - - edit link: https://www.overleaf.com/9679979174ymfcxhgdrvzs#b321c4
