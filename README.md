@@ -30,7 +30,16 @@ These results open a new space for motion-based games with limited and low budge
 - Smart Steering Wheel Prototype for In-Vehicle Vital Sign Monitoring - https://dl.acm.org/doi/10.1145/3282894.3282918
 
 ## Idea Iteration:
+### Wall Cleaner
+suction cups or magnetic legs to clean hard to reach places in the house. camera tracking to detect webs and dirty spots
+
+### Budgeting assistant
+visual representation of resource, AI robot explains spending habits, receipt scanner
+
+### Wheel game
+tackle boredom and motion sickness by encouraging focus to the window
 
 ## Target User:
+children
 
 ## Prototyping Iterations:
