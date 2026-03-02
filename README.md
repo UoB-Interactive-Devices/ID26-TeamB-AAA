@@ -1,5 +1,4 @@
-### ID26-TeamB-AAA
-***
+# ID26-TeamB-AAA
 
 ## Things to add to this repo:
 - Team photo
