@@ -16,7 +16,7 @@
 - Arshia Prajapat
 - Emma Tonge
 
-### Abstract:
+## Abstract:
 
 Car journeys are a common source of boredom for children and often entertainment is provided through screens. While this solution successfully distracts children, it often induces motion sickness. While in the car, children are exposed to dynamically changing environments for long periods; it would be beneficial to use this time productively. We have created a product that keeps children entertained and learning, allowing parents to focus on driving.
 Past research proves that car games can aid children’s development. However, there are no games that allow the children to interact with the movement of the car as well as the environment.
@@ -24,12 +24,12 @@ We have developed an interactive steering wheel, with buttons to “accelerate�
 We have interviewed parents of children using our steering wheel over X hours, and have observed engagement of the road and environment during after journeys. Our results show an improvement in basic road safety tests of X\%.
 These results open a new space for motion-based games with limited and low budget hardware. This type of technology can be used in various vehicles: trains; planes; buses.
 
-### Similar Projects:
+## Similar Projects:
 - Facial Expression Recognition Control - https://www.mdpi.com/1424-8220/26/2/477
 - Smart Steering Wheel Prototype for In-Vehicle Vital Sign Monitoring - https://dl.acm.org/doi/10.1145/3282894.3282918
 
-### Idea Iteration:
+## Idea Iteration:
 
-### Target User:
+## Target User:
 
-### Prototyping Iterations:
+## Prototyping Iterations:
