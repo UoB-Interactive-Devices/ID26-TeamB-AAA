@@ -56,10 +56,10 @@ tackle boredom and motion sickness by encouraging focus to the window
 Our final product decision was the interactive wheel. By iteratively considering the uses and functionability, we discarded the learning aspects for simplicity to focus on the 2 main issues of tackling boredom and motion sickness through the core function, directing user attention to the external environment.
 
 ### Discarding other ideas:
-Budgeting assistant: 
+Budgeting assistant:  
 By aiming to display, calculate and explain the users spendings, this project lacked physical interactivity as we agreed that an app could be used for the same functionability. The robot assistant and display bars were two separate concepts and further consideration would be required to make the features more integrated into each other.
 
-Wall Cleaner:
+Wall Cleaner:  
 its cool
 
 ## Target User:
