@@ -42,6 +42,9 @@ These results open a new space for motion-based games with limited and low budge
 - Facial Expression Recognition Control - https://www.mdpi.com/1424-8220/26/2/477
 - Smart Steering Wheel Prototype for In-Vehicle Vital Sign Monitoring - https://dl.acm.org/doi/10.1145/3282894.3282918
 
+## Ideation:
+Our method of prototyping ideas was brainstorming basic objects or public spaces related to the home/habits theme. We then looked deeper into each aspect by introducing actions and emotions related to these spaces and by "matching" the words that went together, we built a foundation of issues or products to resolve.
+
 ## Idea Iteration:
 ### Wall Cleaner
 suction cups or magnetic legs to clean hard to reach places in the house. camera tracking to detect webs and dirty spots
