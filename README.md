@@ -56,16 +56,18 @@ visual representation of resource, AI robot explains spending habits, receipt sc
 tackle boredom and motion sickness by encouraging focus to the window
 
 ## Final Decision
-Our final product decision was the interactive wheel. By iteratively considering the uses and functionability, we discarded the learning aspects for simplicity to focus on the 2 main issues of tackling boredom and motion sickness through the core function, directing user attention to the external environment.
+Our final product decision was the interactive wheel. By iteratively considering the uses and functionability, we discarded the learning aspects for simplicity to focus on the 2 main issues of tackling boredom and motion sickness through the core function, directing user attention to the external environment. We will use an IMU to measure acceleration while inside the car and a rotator thingy to attach to the wheel measuring x/y rotation.
 
 ### Discarding other ideas:
 Budgeting assistant:  
 By aiming to display, calculate and explain the users spendings, this project lacked physical interactivity as we agreed that an app could be used for the same functionability. The robot assistant and display bars were two separate concepts and further consideration would be required to make the features more integrated into each other.
 
 Wall Cleaner:  
-its cool
+ceterpillar scary
 
 ## Target User:
 children
 
 ## Prototyping Iterations:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
+
