@@ -70,7 +70,7 @@ children
 
 ## Prototyping Iterations:
 First prototype design
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
 - 3D printed custom made wheel
 - Hollow in the middle, 2 shells screwed together
 - Hole in the middle for rotator thing
