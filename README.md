@@ -51,7 +51,8 @@ suction cups or magnetic legs to clean hard to reach places in the house. camera
 
 ### Budgeting assistant
 visual representation of resource, AI robot explains spending habits, receipt scanner
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2b8c983c-dfbd-4b44-878c-f9f5a20c7da2" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/79d06de7-be6f-427f-a948-b4253c4e351c" />
+
 
 ### Wheel game
 tackle boredom and motion sickness by encouraging focus to the window
@@ -74,7 +75,7 @@ children
 ### Playdough prototyping
 <img width="1000" height="623" alt="image" src="https://github.com/user-attachments/assets/80a9627c-46dc-4bd0-bf43-f6644209089a" />
 
-### Model and body prototyping
+### Model and bodystorming
 <img width="1000" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
 
 ### First prototype iteration
