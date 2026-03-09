@@ -70,15 +70,14 @@ ceterpillar scary
 children
 
 ## Prototyping Iterations:
-<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/80a9627c-46dc-4bd0-bf43-f6644209089a" />
 
 ### Playdough prototyping
-<img width="1600" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
+<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/80a9627c-46dc-4bd0-bf43-f6644209089a" />
 
 ### Model and body prototyping
+<img width="1600" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
 
 ### First prototype iteration
-
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
   
   - 3D printed custom made wheel
