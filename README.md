@@ -51,6 +51,7 @@ suction cups or magnetic legs to clean hard to reach places in the house. camera
 
 ### Budgeting assistant
 visual representation of resource, AI robot explains spending habits, receipt scanner
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b8c983c-dfbd-4b44-878c-f9f5a20c7da2" />
 
 ### Wheel game
 tackle boredom and motion sickness by encouraging focus to the window
@@ -69,7 +70,14 @@ ceterpillar scary
 children
 
 ## Prototyping Iterations:
-First prototype design  
+<img width="1600" height="623" alt="image" src="https://github.com/user-attachments/assets/80a9627c-46dc-4bd0-bf43-f6644209089a" />
+
+### Playdough prototyping
+<img width="1600" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
+
+### Model and body prototyping
+
+### First prototype iteration
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
   
@@ -78,3 +86,5 @@ First prototype design
 - Hole in the middle for rotator thing
 - IMU on breadboard measures acceleration
 - Buttons on either side
+In the first prototype, the screen displays a speed value which increases by the right button and slowly decreases/decays when it is not pressed. The speed value rapidly decreases when the left button is pressed, simulating the brake. The rotatory incoder is connected to the arduino board such that the screen also displays a rotation value for the car orientation.
+The main issue in our first iteration is that the holes in the 3D printed wheel model do not fit the buttons, screens and rotator tightly enough, but this will later be reprinted with precise measurements in our second iteration.
