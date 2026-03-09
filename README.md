@@ -51,7 +51,7 @@ suction cups or magnetic legs to clean hard to reach places in the house. camera
 
 ### Budgeting assistant
 visual representation of resource, AI robot explains spending habits, receipt scanner
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/2b8c983c-dfbd-4b44-878c-f9f5a20c7da2" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2b8c983c-dfbd-4b44-878c-f9f5a20c7da2" />
 
 ### Wheel game
 tackle boredom and motion sickness by encouraging focus to the window
