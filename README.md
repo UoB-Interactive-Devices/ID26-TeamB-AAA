@@ -78,10 +78,6 @@ children
 ### Model and bodystorming
 <img width="1000" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
 
-### Design Futuring
-
-
-
 ### First prototype iteration
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
   
@@ -96,3 +92,5 @@ The main issue in our first iteration is that the holes in the 3D printed wheel 
 ### Second prototype iteration
 Resolving all the issues we had in the first prototype, we took precise measurements of holes in the wheel and reprinted a new shell. The rectangle hole was sanded down to fit the screen and the rotator in the middle fit tightly to accurately detect rotation. For this iteration, we have also decided to use a new breadboard that is less chunky from the default one and soldered all the compartments onto a metal plate. This will take up less room and wires will be more securely connected.
 For our third iteration, we will add a lazer cutted wooden box attached to the wheel to fix the location and rotate from, while hiding the wires cleanly.
+
+## Design Futuring
