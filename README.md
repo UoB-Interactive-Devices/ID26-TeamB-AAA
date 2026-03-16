@@ -88,3 +88,7 @@ children
 - Buttons on either side
 In the first prototype, the screen displays a speed value which increases by the right button and slowly decreases/decays when it is not pressed. The speed value rapidly decreases when the left button is pressed, simulating the brake. The rotatory incoder is connected to the arduino board such that the screen also displays a rotation value for the car orientation.
 The main issue in our first iteration is that the holes in the 3D printed wheel model do not fit the buttons, screens and rotator tightly enough, but this will later be reprinted with precise measurements in our second iteration.
+
+### Second prototype iteration
+Resolving all the issues we had in the first prototype, we took precise measurements of holes in the wheel and reprinted a new shell. The rectangle hole was sanded down to fit the screen and the rotator in the middle fit tightly to accurately detect rotation. For this iteration, we have also decided to use a new breadboard that is less chunky from the default one and soldered all the compartments onto a metal plate. This will take up less room and wires will be more securely connected.
+For our third iteration, we will add a lazer cutted wooden box attached to the wheel to fix the location and rotate from, while hiding the wires cleanly.
