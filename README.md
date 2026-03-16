@@ -78,6 +78,10 @@ children
 ### Model and bodystorming
 <img width="1000" height="930" alt="image" src="https://github.com/user-attachments/assets/fa5b9b4f-b40a-4ee2-9226-8f0a6d35cca6" />
 
+### Design Futuring
+
+
+
 ### First prototype iteration
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ae323f23-b647-4e74-ade8-d1eccfc2c12f" />
   
